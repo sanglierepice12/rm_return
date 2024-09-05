@@ -1,2 +1,1 @@
-make
-./rm_return
+make && ./rm_return
